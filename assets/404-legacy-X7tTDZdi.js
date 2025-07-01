@@ -1,0 +1,1 @@
+System.register(["./index-legacy-CB_6a1q3.js"],(function(e,t){"use strict";var n,r,u;return{setters:[e=>{n=e._,r=e.c,u=e.o}],execute:function(){e("default",n({name:"404"},[["render",function(e,t,n,c,i,s){return u(),r("div",null," 404 page ")}]]))}}}));
