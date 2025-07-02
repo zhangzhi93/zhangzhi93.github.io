@@ -1,0 +1,1 @@
+import{_ as e}from"../index.mSaQI5.js";import{d as o,o as t}from"./vendor.CGB3Xnwf.js";const r={name:"404"};function n(a,c,s,p,_,f){return t(),o("div",null," 404 page ")}const i=e(r,[["render",n]]);export{i as default};

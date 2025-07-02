@@ -1,1 +1,0 @@
-System.register(["./index-legacy-COSB_z6A.js"],(function(e,t){"use strict";var r;return{setters:[e=>{r=e.am}],execute:function(){const t=Object.freeze(Object.defineProperty({__proto__:null,default:{}},Symbol.toStringTag,{value:"Module"}));e("r",r(t))}}}));
