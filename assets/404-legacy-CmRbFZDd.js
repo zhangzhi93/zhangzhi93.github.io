@@ -1,0 +1,1 @@
+System.register(["./index-legacy-COSB_z6A.js"],(function(e,t){"use strict";var n,r,a;return{setters:[e=>{n=e.aa,r=e.a6,a=e.a3}],execute:function(){e("default",n({name:"404"},[["render",function(e,t,n,u,i,s){return a(),r("div",null," 404 page ")}]]))}}}));
